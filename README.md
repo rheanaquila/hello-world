@@ -9,6 +9,7 @@ An in-depth paragraph about your project and overview of use.
 ### Installing
 * How/where to download your program
 * Any modifications needed to be made to files/folders
-code black for commands
+
+code blocks for commands
 ### License
-This **project** is licensed under the [NAME HERE] License - see the LICENSE.md file for details.
+This **project** is licensed under the [NAME HERE] License - see the [LICENSE.md](https://github.com/) file for details.
